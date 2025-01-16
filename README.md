@@ -1,22 +1,9 @@
-# footballstatss
-football-stats/
-├── backend/
-│   ├── app.py
-│   ├── models.py
-│   ├── requirements.txt
-│   └── .env.example
-├── frontend/
-│   ├── public/
-│   │   ├── index.html
-│   │   └── sw.js
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── components/
-│   │   │   ├── Notifications.js
-│   │   │   ├── Favorites.js
-│   │   │   └── Dashboard.js
-│   │   └── index.js
-│   ├── package.json
-│   └── .env.example
-├── docker-compose.yml
-└── README.md
+# Football Stats
+
+Dieses Projekt zeigt Statistiken für Fußballspiele und Spieler an.
+
+## Installation
+
+1. Klone das Repository.
+2. Starte die Dienste mit `docker-compose up`.
+
